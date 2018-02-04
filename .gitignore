@@ -1,0 +1,11 @@
+target/
+rest-api-tests/src/main/resources/FitNesseRoot/files/testResults
+rest-api-tests/src/main/resources/FitNesseRoot/ErrorLogs
+rest-api-tests/src/main/resources/FitNesseRoot/RecentChanges
+rest-api-tests/src/main/resources/FitNesseRoot/properties
+rest-api-tests/src/main/resources/FitNesseRoot/updateDoNotCopyOverList
+rest-api-tests/src/main/resources/FitNesseRoot/updateList
+rest-api-tests/src/main/resources/FitNesseRoot/Fitnesse/UserGuide
+rest-api-tests/src/main/resources/FitNesseRoot/PageFooter
+rest-api-tests/src/main/resources/FitNesseRoot/PageHeader
+rest-api-tests/src/main/resources/FitNesseRoot/TemplateLibrary
